@@ -1,6 +1,6 @@
 # Data-Cleaning-And-Analyzing-using-Excel
 
-Data Cleaning 
+**Data Cleaning**
 
 In this Project we are importing dataset containing information about the fleet of vehicles. The data is in comma-separated value (CSV) format. The data is cleaned up to run any kind of analysis on it.
 
@@ -26,7 +26,13 @@ In this Project we are importing dataset containing information about the fleet 
 
 
 
-**Data Analyzing** - Here we are using Excel pivot tables to analyze the data. 
+
+
+
+
+**Data Analyzing**
+
+Here we are using Excel pivot tables to analyze the data. 
 
 **Tasks performed**
 
