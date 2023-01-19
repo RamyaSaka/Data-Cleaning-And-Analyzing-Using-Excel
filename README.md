@@ -50,4 +50,4 @@ Here we are using Excel pivot tables to analyze the data.
     In pivot table 2 added the Equipment Class field below the Department field so that the different vehicle types appear under each department with their respective     counts. 
     In pivot table 3 added the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed     underneath each vehicle type with their respective counts.
 
-8.**Save workbook**: Saved workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX using Save As.
+8. **Save workbook**: Saved workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX using Save As.
