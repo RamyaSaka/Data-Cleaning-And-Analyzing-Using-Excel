@@ -1,4 +1,21 @@
-# Data-Cleaning-And-Analyzing-using-Excel
+# Data-Cleaning-And-Analyzing-Using-Excel
+
+In this Project, the dataset contains information about the fleet of vehicles. It is cleaned and analysed using Excel.
+
+
+<h1> Software used</h1>
+
+1. **Data Cleaning** - Microsoft Excel
+2. **Data Analysing** - Microsoft Excel
+
+
+<h1> Datasets used </h1>
+
+1. **Input file 1** - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV
+2. **Input file 2** - Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX
+3. **Output file 1** - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX
+4. **Output file 2** - Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX
+
 
 <h1>Data Cleaning</h1>
 
